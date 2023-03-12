@@ -29,6 +29,3 @@ When the build completes, open Chrome or Edge and navigate to chrome://extension
 </p>
 
 Drag your dist folder into the Extensions Dashboard to install it. Your extension icon will be in the top bar.
-
-## Supporting
-If you find this template helpfully, you can support my work here!
