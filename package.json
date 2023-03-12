@@ -1,0 +1,17 @@
+{
+  "name": "chrome-vie-svelte-boilerplate",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.0.0-beta.14",
+    "@sveltejs/vite-plugin-svelte": "^2.0.2",
+    "svelte": "^3.55.1",
+    "vite": "^4.1.0"
+  }
+}
