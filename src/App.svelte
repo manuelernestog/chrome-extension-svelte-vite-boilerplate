@@ -5,7 +5,7 @@
 </script>
 
 <main>
-  <div>
+  <div class="flex">
     <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> 
       <img src="/vite.svg" class="logo" alt="Vite Logo" />
     </a>
@@ -16,7 +16,7 @@
       <img src={tailwindLogo} class="logo tailwind" alt="tailwind Logo" />
     </a>
   </div>
-  <h1>Vite + Svelte + Tailwind</h1>
+  <h1 class="text-3xl mt-10">Vite + Svelte + Tailwind</h1>
 
   <div class="card">
     <Counter />
