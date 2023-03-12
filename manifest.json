@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Chrome Vite Svelte Boilerplate",
+    "name": "Chrome Extension Vite Svelte Boilerplate",
     "version": "1.0.0",
     "action": { "default_popup": "index.html" },
     "icons": {
